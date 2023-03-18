@@ -12,7 +12,7 @@ class Home extends Component {
           <Header />
         </div>
 
-        <main>main content</main>
+        <main className="main">main content</main>
 
         <div className="footer">
           {/* Footer */}

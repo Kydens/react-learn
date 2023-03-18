@@ -8,13 +8,13 @@ export class Footer extends Component {
   render() {
     return (
       <>
-        <Container className="footerWrapper">
+        <Container className="footerWrapper fixed-bottom">
           <footer>
             <Container>
-              <a href="/">
+              <a href="https://github.com/Kydens" target="_blank">
                 <Github size={24} />
               </a>
-              <a href="/">
+              <a href="https://instagram.com/ednath.s" target="_blank">
                 <Instagram size={24} />
               </a>
             </Container>

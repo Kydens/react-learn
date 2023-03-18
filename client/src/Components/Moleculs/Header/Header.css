@@ -1,5 +1,5 @@
 .navbarWrapper {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .navbarWrapper nav {
@@ -8,7 +8,7 @@
 }
 
 nav .container {
-  padding: 0 1rem 0 1rem;
+  padding: 0 2rem 0 2rem;
 }
 
 nav .container a {
