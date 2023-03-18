@@ -1,0 +1,22 @@
+.navbarWrapper {
+  margin-bottom: 2rem;
+}
+
+.navbarWrapper nav {
+  border-radius: 0 0 0.5em 0.5em;
+  background-color: #2d473c;
+}
+
+nav .container {
+  padding: 0 1rem 0 1rem;
+}
+
+nav .container a {
+  color: #f6eaa8;
+}
+
+nav .collapse span a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

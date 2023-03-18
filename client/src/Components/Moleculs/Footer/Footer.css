@@ -1,0 +1,22 @@
+.footerWrapper {
+  margin-top: 2rem;
+}
+
+.footerWrapper footer .container {
+  background-color: #2d473c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* position: fixed; */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  gap: 1rem;
+  height: 5rem;
+  border-radius: 0 0 0.5em 0.5em;
+}
+
+.footerWrapper footer .container a {
+  color: #f6eaa8;
+  text-decoration: none;
+}
